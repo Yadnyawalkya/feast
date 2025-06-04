@@ -346,7 +346,7 @@ gunicorn==23.0.0
     # via
     #   feast (setup.py)
     #   uvicorn-worker
-h11==0.14.0
+h11==0.16.0
     # via
     #   httpcore
     #   uvicorn
