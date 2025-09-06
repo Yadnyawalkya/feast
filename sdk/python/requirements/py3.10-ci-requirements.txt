@@ -1337,7 +1337,7 @@ wrapt==1.17.2
     #   testcontainers
 xlsxwriter==3.2.2
     # via python-pptx
-xmltodict==0.14.2
+xmltodict==0.15.0
     # via moto
 yarl==1.18.3
     # via aiohttp
