@@ -30,7 +30,7 @@
     "inter-ui": "^3.19.3",
     "long": "^5.2.3",
     "moment": "^2.29.1",
-    "protobufjs": "^7.1.1",
+    "protobufjs": "^7.5.5",
     "query-string": "^7.1.1",
     "react-app-polyfill": "^3.0.0",
     "react-code-blocks": "^0.1.6",
