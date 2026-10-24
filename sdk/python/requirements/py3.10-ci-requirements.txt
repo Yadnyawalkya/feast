@@ -542,7 +542,7 @@ milvus-lite==2.4.11
     # via pymilvus
 minio==7.2.11
     # via feast (setup.py)
-mistune==3.1.2
+mistune==3.3.0
     # via
     #   great-expectations
     #   nbconvert
@@ -579,7 +579,7 @@ mypy-protobuf==3.3.0
     # via feast (setup.py)
 nbclient==0.10.2
     # via nbconvert
-nbconvert==7.16.6
+nbconvert==7.17.2
     # via jupyter-server
 nbformat==5.10.4
     # via
